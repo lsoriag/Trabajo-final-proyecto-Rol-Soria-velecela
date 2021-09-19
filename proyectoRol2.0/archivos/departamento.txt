@@ -1,0 +1,14 @@
+1|Sistemas
+2|Contabilidad
+3|Nomina
+4|Financiero5|General
+5|informatico
+6|Investigativo
+7|e
+8|e
+9|Quimico
+10|Fisico
+11|industrial
+12|general
+13|Administrativo
+14|Judicial
